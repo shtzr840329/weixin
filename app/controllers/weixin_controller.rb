@@ -2,7 +2,7 @@ class WeixinController < ApplicationController
   wechat_responder
 
   def show
-
+  
   end
 
   def create
